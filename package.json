@@ -1,0 +1,30 @@
+{
+  "name": "vue2-select2",
+  "version": "0.0.1",
+  "description": "A Vuejs 2 component wrapping the awesome Select2 Plugin",
+  "author": "Gustavo Bissolli <gustavo.bissolli@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "main": "vue2-select2.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gustavobissolli/vue2-select2.git"
+  },
+  "bugs": "https://github.com/gustavobissolli/vue2-select2/issues",
+  "keywords": [
+    "vue.js",
+    "vue.js 2",
+    "select2",
+    "vue 2"
+  ],
+  "dependencies": {
+    "vue": "^2.0.1",
+    "select2": "^4.0.3"
+  },
+}
+
+  
+  
+
+
+  

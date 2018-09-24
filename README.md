@@ -1,3 +1,3 @@
 # vue2-select2
 
-This package is no longer maintained
+## This package is no longer maintained
